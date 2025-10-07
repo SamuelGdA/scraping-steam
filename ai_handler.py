@@ -1,9 +1,7 @@
-# ai_handler.py
 import google.generativeai as genai
 import json
 
-# Usando a API Key e o modelo que você forneceu
-API_KEY = 'AIzaSyD5AYclVQxmRDovEHO3iGtmfokNU49wlG4'
+API_KEY = 'SUA CHAVE API AQUI'
 MODEL_NAME = 'gemini-2.5-flash'
 
 def get_tags_from_ia(description, tag_map):

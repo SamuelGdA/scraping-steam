@@ -1,4 +1,3 @@
-# pc_specs.py
 import json
 import os
 

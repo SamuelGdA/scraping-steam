@@ -1,4 +1,3 @@
-# steam_scraper.py - Versão Final com Número de Resultados
 import requests
 from bs4 import BeautifulSoup
 

@@ -1,4 +1,3 @@
-# main.py - Versão Final com IA de Requisitos
 import pc_specs
 import ai_handler
 import steam_scraper
